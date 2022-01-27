@@ -1,0 +1,162 @@
+{
+  "calci": [
+    {
+      "fname": "Samiksha",
+      "lname": "kad",
+      "username": "sami12",
+      "email": "raghunathkad3@gmail.com",
+      "password": "9518354701",
+      "id": 1,
+      "task": [
+        {
+          "title": "apple",
+          "description": "eat"
+        }
+      ]
+    },
+    {
+      "password": "Priya@123",
+      "email": "priya@123.com",
+      "fname": "priya",
+      "lname": "pande",
+      "username": "priya12",
+      "budget": [
+        {}
+      ],
+      "id": 2
+    },
+    {
+      "password": "Samiksha@123",
+      "email": "samiksha.kad@neosoftmail.com",
+      "fname": "samiksha",
+      "lname": "kad",
+      "username": "sami1",
+      "budget": [
+        {
+          "title": "sasa",
+          "expences": "1212"
+        },
+        {
+          "title": "gym",
+          "expences": "3000"
+        },
+        {
+          "totalbudget": 0,
+          "title": "",
+          "expences": ""
+        }
+      ],
+      "id": 3
+    },
+    {
+      "password": "John@123",
+      "email": "john@gmail.com",
+      "fname": "John",
+      "lname": "Doe",
+      "username": "John1",
+      "budget": [
+        {
+          "id": 0,
+          "title": "gym",
+          "expences": "30022"
+        },
+        {
+          "totalbudget": 0,
+          "title": "",
+          "expences": ""
+        }
+      ],
+      "id": 4
+    },
+    {
+      "password": "Qwer@123",
+      "email": "qwer@gmail.com",
+      "fname": "qwer",
+      "lname": "qwer",
+      "username": "qwer",
+      "budget": [
+        {
+          "title": "gym",
+          "expences": "200"
+        },
+        {
+          "totalbudget": 0,
+          "title": "",
+          "expences": ""
+        }
+      ],
+      "id": 5
+    },
+    {
+      "password": "$2a$10$xSG9i8.Q3jqDraW7MVIGweYSElmPZJDqxmz4f2aTz8OkrV/g4pDu2",
+      "email": "uiop@gmail.com",
+      "fname": "uiop",
+      "lname": "uiop",
+      "username": "uiop",
+      "budget": [
+        {
+          "totalbudget": "400000",
+          "title": "expences",
+          "expences": "2999"
+        },
+        {
+          "title": "wiop",
+          "expences": "100000"
+        },
+        {
+          "totalbudget": "200000",
+          "title": "",
+          "expences": ""
+        }
+      ],
+      "id": 6
+    },
+    {
+      "password": "$2a$10$IiIrcNgRldvem6gEHH1D3.qB7oHsxkkIrEyvtEZOmhyIamnbrIDjO",
+      "email": "samiksha.kad@neosoftmail.com",
+      "fname": "samiksha",
+      "lname": "Doe",
+      "username": "sami1",
+      "totalbudget": 0,
+      "budget": [],
+      "id": 7
+    },
+    {
+      "password": "$2a$10$TR/qtlJZYZKQm9c/mOEuZuprm.89LHW9qsBssdTAjrZCxmiPFdqP6",
+      "email": "",
+      "fname": "John",
+      "lname": "Doe",
+      "username": "",
+      "totalbudget": "",
+      "budget": [],
+      "id": 8
+    },
+    {
+      "password": "$2a$10$M9mZkcoX1dAlNb5rDJR39OMtOWZxmbwT8cr98JWEcFAIWn1XJAUaO",
+      "email": "neha@gmail.com",
+      "fname": "Mamta",
+      "lname": "Kumari",
+      "username": "neha",
+      "budget": [],
+      "id": 9
+    },
+    {
+      "password": "$2a$10$WYtmNu.mV0VFt89I2BO9Y.742yFPCbyTAOpdNW5lAl39hK.S4.UK6",
+      "email": "neha@gmail.com",
+      "fname": "Neha",
+      "lname": "Kumari",
+      "username": "Neha ",
+      "budget": [],
+      "id": 10
+    },
+    {
+      "password": "$2a$10$QYHpBu/Gp0H8d84GZCpY.evi1xM0XYN.6Qtsu.TuyMWslPSRzO26q",
+      "email": "shubh@gmail.com",
+      "fname": "Shubham",
+      "lname": "Saurabh",
+      "username": "shubh123",
+      "budget": [],
+      "id": 11
+    }
+  ]
+}
